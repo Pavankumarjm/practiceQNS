@@ -1,9 +1,11 @@
-function isPowerOfThree(n) {
-    if (n <= 0) return false;
+def is_power_of_three(n):
+    if n <= 0:
+        return False
+    
+    while n % 3 == 0:
+        n = n // 3
+    
+    return n == 1
 
-    while (n % 3 === 0) {
-        n = n / 3;
-    }
-
-    return n === 1;
-}
+print(is_power_of_three(27)) 
+print(is_power_of_three(10))  
