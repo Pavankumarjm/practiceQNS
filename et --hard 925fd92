@@ -1,0 +1,40 @@
+[33mbe7afcd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: reset: moving to be7afcd
+[33m925fd92[m HEAD@{1}: pull --rebase origin main: Fast-forward
+[33mb7a40e6[m HEAD@{2}: Branch: renamed refs/heads/main to refs/heads/main
+[33mb7a40e6[m HEAD@{4}: commit: Sort Colors
+[33m7356c86[m HEAD@{5}: Branch: renamed refs/heads/main to refs/heads/main
+[33m7356c86[m HEAD@{7}: commit: Integer to Roman
+[33me28435a[m HEAD@{8}: Branch: renamed refs/heads/main to refs/heads/main
+[33me28435a[m HEAD@{10}: commit: power of three
+[33mc3fda4a[m HEAD@{11}: Branch: renamed refs/heads/main to refs/heads/main
+[33mc3fda4a[m HEAD@{13}: commit: move zeros to the end
+[33mb72f568[m HEAD@{14}: Branch: renamed refs/heads/main to refs/heads/main
+[33mb72f568[m HEAD@{16}: Branch: renamed refs/heads/main to refs/heads/main
+[33mb72f568[m HEAD@{18}: commit: find_pair_with_sum_in_Array
+[33m55685b7[m HEAD@{19}: Branch: renamed refs/heads/main to refs/heads/main
+[33m55685b7[m HEAD@{21}: commit: Missing_Number
+[33m4a9a749[m HEAD@{22}: Branch: renamed refs/heads/main to refs/heads/main
+[33m4a9a749[m HEAD@{24}: commit: Reverse_only_Letters
+[33mb7d33bd[m HEAD@{25}: Branch: renamed refs/heads/main to refs/heads/main
+[33mb7d33bd[m HEAD@{27}: commit: Perfect_Number
+[33m0c88e74[m HEAD@{28}: Branch: renamed refs/heads/main to refs/heads/main
+[33m0c88e74[m HEAD@{30}: commit: subsets
+[33mfb5287b[m HEAD@{31}: Branch: renamed refs/heads/main to refs/heads/main
+[33mfb5287b[m HEAD@{33}: commit: Sort_colors
+[33me38a4fc[m HEAD@{34}: Branch: renamed refs/heads/main to refs/heads/main
+[33me38a4fc[m HEAD@{36}: commit: Longest_Palindrome
+[33m6b96deb[m HEAD@{37}: Branch: renamed refs/heads/main to refs/heads/main
+[33m6b96deb[m HEAD@{39}: commit: Word_Break
+[33m28c789a[m HEAD@{40}: Branch: renamed refs/heads/main to refs/heads/main
+[33m28c789a[m HEAD@{42}: commit: Coin_Change
+[33me9c6e50[m HEAD@{43}: Branch: renamed refs/heads/main to refs/heads/main
+[33me9c6e50[m HEAD@{45}: commit: Word_Search
+[33mf444358[m HEAD@{46}: Branch: renamed refs/heads/main to refs/heads/main
+[33mf444358[m HEAD@{48}: commit: Implement_tree
+[33m22de14b[m HEAD@{49}: Branch: renamed refs/heads/main to refs/heads/main
+[33m22de14b[m HEAD@{51}: commit: Subarray_sum_equals_k
+[33m173c101[m HEAD@{52}: Branch: renamed refs/heads/main to refs/heads/main
+[33m173c101[m HEAD@{54}: commit: character_replacement
+[33mbe7afcd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{55}: Branch: renamed refs/heads/main to refs/heads/main
+[33mbe7afcd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{57}: Branch: renamed refs/heads/master to refs/heads/main
+[33mbe7afcd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{59}: commit (initial): Search_in_Rotated_Sorted_Array
